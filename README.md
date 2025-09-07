@@ -108,6 +108,10 @@ services:
       - /data/subsonic-data:/var/subsonic
 ```
 
+## Source / repository
+
+The source code for this container can be found [on Github](https://github.com/stuckj/subsonic-docker).
+
 ## TODOs
 
 TODO: Setup auto-detection of new versions in Dockerfile (will need to scrape page).
